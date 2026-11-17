@@ -1,4 +1,4 @@
-[breach-narrative.md](https://github.com/user-attachments/files/34946967/breach-narrative.md)
+
 PHP2Shell: The Hartwell Breach: Web Server Compromise, Start to Finish
 
 ## Summary
